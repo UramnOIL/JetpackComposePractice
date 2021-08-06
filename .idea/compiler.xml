@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="16">
+      <module name="JetpackComposePractice.common.commonMain" target="11" />
+      <module name="JetpackComposePractice.common.commonTest" target="11" />
+      <module name="JetpackComposePractice.common.desktopMain" target="11" />
+      <module name="JetpackComposePractice.common.desktopTest" target="11" />
+      <module name="JetpackComposePractice.desktop.commonMain" target="11" />
+      <module name="JetpackComposePractice.desktop.commonTest" target="11" />
+      <module name="JetpackComposePractice.desktop.jvmMain" target="11" />
+      <module name="JetpackComposePractice.desktop.jvmTest" target="11" />
+      <module name="JetpackComposePractice.web.jvmMain" target="11" />
+      <module name="JetpackComposePractice.web.jvmTest" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

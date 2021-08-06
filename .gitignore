@@ -1,0 +1,6 @@
+# プロジェクトの除外パス
+/.gradle/
+/build/
+/common/build/
+/desktop/build/
+/web/build/
