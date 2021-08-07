@@ -11,7 +11,7 @@ buildscript {
 
 plugins {
     kotlin("multiplatform") version "1.5.21" apply false
-    id("org.jetbrains.compose") version "0.5.0-build270" apply false
+    id("org.jetbrains.compose") version "1.0.0-alpha3" apply false
 }
 
 group = "com.uramnoil"
